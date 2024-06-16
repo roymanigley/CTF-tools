@@ -1,0 +1,4 @@
+.venv
+.env
+.idea
+wordlists/passwords/rockyou.txt
